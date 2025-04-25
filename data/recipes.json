@@ -1,0 +1,48 @@
+{
+  "happy": [
+    "Paneer Tikka (Indian)",
+    "Avocado Toast (International)",
+    "🥗 Greek Veggie Salad",
+    "🍝 Italian Pasta with Pesto",
+    "🍲 Indian Paneer Butter Masala",
+    "🍛 Veg Biryani"
+  ],
+  "sad": [
+    "Khichdi with Ghee (Indian)",
+    "Tomato Soup (International)",
+    "🍲 Comforting Khichdi",
+    "🍜 Hot Veg Soup",
+    "🍰 Chocolate Lava Cake",
+    "🍵 Masala Chai"
+  ],
+  "angry": [
+    "Masala Chai with Rusk (Indian)",
+    "Green Smoothie Bowl (International)",
+    "🌯 Mexican Veg Burrito",
+    "🍝 Spicy Arrabbiata Pasta",
+    "🍜 Ramen with Tofu",
+    "🥒 Cool Cucumber Raita"
+  ],
+  "neutral": [
+    "Mixed Veg Pulao (Indian)",
+    "Vegetable Sandwich (International)",
+    "🍞 Veg Sandwich",
+    "🥘 Mixed Veg Curry",
+    "🍚 Steamed Rice & Dal",
+    "🍛 Thai Green Curry"
+  ],
+  "stressed": [
+    "Lemon Tea (Indian)",
+    "Quinoa Salad (International)",
+    "🍜 Soothing Lemon-Ginger Soup",
+    "🍪 Oatmeal Cookies",
+    "🍲 Broccoli & Cheese Casserole",
+    "🥗 Spinach & Avocado Salad"
+  ],
+  "excited": [
+    "🍕 Veggie Pizza",
+    "🍰 Cheesecake",
+    "🌮 Tacos with Beans",
+    "🥗 Quinoa Bowl"
+  ]
+}

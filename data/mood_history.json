@@ -1,0 +1,114 @@
+[
+    {
+        "timestamp": "2025-04-06 23:36:20.814546",
+        "name": "siri",
+        "mood": "happy",
+        "quote": "Happiness is contagious. Spread it!",
+        "recipes": [
+            "Fruit Salad",
+            "Veg Sandwich"
+        ],
+        "places": [
+            "Beach",
+            "Park"
+        ]
+    },
+    {
+        "name": "siri",
+        "mood": "happy",
+        "quote": "Happiness is a direction, not a place.",
+        "recipes": [
+            "\ud83e\udd57 Greek Veggie Salad",
+            "Paneer Tikka (Indian)"
+        ],
+        "places": [
+            "\ud83c\udfa1 Amusement Park",
+            "\ud83c\udfde\ufe0f Nature Trail"
+        ],
+        "timestamp": "2025-04-07 21:36:54"
+    },
+    {
+        "name": "siri",
+        "mood": "neutral",
+        "quote": "Life is about balance. Breathe. Let go.",
+        "recipes": [
+            "\ud83c\udf5a Steamed Rice & Dal",
+            "Mixed Veg Pulao (Indian)"
+        ],
+        "places": [
+            "\ud83c\udfac Movie Theatre",
+            "\u2615 Quiet Caf\u00e9"
+        ],
+        "timestamp": "2025-04-07 23:33:56"
+    },
+    {
+        "name": "siri",
+        "mood": "neutral",
+        "quote": "Life is about balance. Breathe. Let go.",
+        "recipes": [
+            "\ud83c\udf5e Veg Sandwich",
+            "\ud83c\udf5b Thai Green Curry"
+        ],
+        "places": [
+            "\ud83c\udfac Movie Theatre",
+            "\u2615 Quiet Caf\u00e9"
+        ],
+        "timestamp": "2025-04-07 23:44:29"
+    },
+    {
+        "name": "siri",
+        "mood": "neutral",
+        "quote": "Sometimes not doing anything is doing something important.",
+        "recipes": [
+            "\ud83c\udf5e Veg Sandwich",
+            "\ud83e\udd58 Mixed Veg Curry"
+        ],
+        "places": [
+            "\u2615 Quiet Caf\u00e9",
+            "\ud83d\uddbc\ufe0f Art Museum"
+        ],
+        "timestamp": "2025-04-07 23:55:39"
+    },
+    {
+        "name": "siri",
+        "mood": "neutral",
+        "quote": "Keep going. Everything you need will come to you.",
+        "recipes": [
+            "\ud83e\udd58 Mixed Veg Curry",
+            "Mixed Veg Pulao (Indian)"
+        ],
+        "places": [
+            "\ud83d\uddbc\ufe0f Art Museum",
+            "\u2615 Quiet Caf\u00e9"
+        ],
+        "timestamp": "2025-04-08 00:01:08"
+    },
+    {
+        "name": "daddy",
+        "mood": "neutral",
+        "quote": "Sometimes not doing anything is doing something important.",
+        "recipes": [
+            "Vegetable Sandwich (International)",
+            "\ud83c\udf5e Veg Sandwich"
+        ],
+        "places": [
+            "\u2615 Quiet Caf\u00e9",
+            "\ud83c\udfac Movie Theatre"
+        ],
+        "timestamp": "2025-04-08 23:05:03"
+    },
+    {
+        "name": "daddy",
+        "mood": "happy",
+        "quote": "Smiles are contagious \u2013 keep spreading them!",
+        "recipes": [
+            "\ud83c\udf5d Italian Pasta with Pesto",
+            "Paneer Tikka (Indian)"
+        ],
+        "places": [
+            "\ud83c\udfa1 Amusement Park",
+            "\ud83c\udfde\ufe0f Nature Trail"
+        ],
+        "timestamp": "2025-04-10 10:05:43"
+    }
+]

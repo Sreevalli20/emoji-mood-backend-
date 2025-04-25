@@ -1,0 +1,1 @@
+from .journal_manager import write_private_entry
